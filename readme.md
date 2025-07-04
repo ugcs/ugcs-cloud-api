@@ -24,9 +24,9 @@ Deliver flight plans across your organization, regardless of drone brand.
 
 ## Getting Started
 
-Integration diagram
-
 Visit the [API documentation](https://dev-cloud.ugcs.com/api) for details on connecting your app or controller.
+
+Use the following sequence diagram for the interaction with UgCS Cloud.
 
 ![UgCS Cloud Integration Sequence](sequence.png)
 
