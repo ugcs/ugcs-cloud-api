@@ -24,9 +24,10 @@ Deliver flight plans across your organization, regardless of drone brand.
 
 ## Getting Started
 
-1. **Sign up** at [cloud.ugcs.com](https://cloud.ugcs.com/)
-2. **Connect** UgCS Desktop or mobile application to the cloud
-3. **Integrate** using the [UgCS Cloud API](https://github.com/ugcs/ugcs-cloud-api)
+Integration diagram
+![UgCS Cloud Integration Sequence](sequence.png)
+
+Use the [UgCS Cloud API](https://dev-cloud.ugcs.com/api)
 
 ## API & Integration
 
